@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repoS10\E57_n-avo_CuadradoPerfecto\E57_n-avo_CuadradoPerfecto\bin\Debug\E57_n-avo_CuadradoPerfecto.exe.config
+C:\Users\Yesica Moreno\source\repoS10\E57_n-avo_CuadradoPerfecto\E57_n-avo_CuadradoPerfecto\bin\Debug\E57_n-avo_CuadradoPerfecto.exe
+C:\Users\Yesica Moreno\source\repoS10\E57_n-avo_CuadradoPerfecto\E57_n-avo_CuadradoPerfecto\bin\Debug\E57_n-avo_CuadradoPerfecto.pdb
+C:\Users\Yesica Moreno\source\repoS10\E57_n-avo_CuadradoPerfecto\E57_n-avo_CuadradoPerfecto\obj\Debug\E57_n-avo_CuadradoPerfecto.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repoS10\E57_n-avo_CuadradoPerfecto\E57_n-avo_CuadradoPerfecto\obj\Debug\E57_n-avo_CuadradoPerfecto.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repoS10\E57_n-avo_CuadradoPerfecto\E57_n-avo_CuadradoPerfecto\obj\Debug\E57_n-avo_CuadradoPerfecto.exe
+C:\Users\Yesica Moreno\source\repoS10\E57_n-avo_CuadradoPerfecto\E57_n-avo_CuadradoPerfecto\obj\Debug\E57_n-avo_CuadradoPerfecto.pdb
